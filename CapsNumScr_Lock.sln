@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CapsNumScr_Lock", "CapsNumScr_Lock\CapsNumScr_Lock.vcxproj", "{924772BB-5339-49E4-97C1-02DA407CCAFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{924772BB-5339-49E4-97C1-02DA407CCAFE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{924772BB-5339-49E4-97C1-02DA407CCAFE}.Debug|Win32.Build.0 = Debug|Win32
+		{924772BB-5339-49E4-97C1-02DA407CCAFE}.Release|Win32.ActiveCfg = Release|Win32
+		{924772BB-5339-49E4-97C1-02DA407CCAFE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
