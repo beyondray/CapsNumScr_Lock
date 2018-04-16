@@ -27,7 +27,7 @@ CapsNumScr_Lock help
 ![picture not found!](/ScreenShots/Scr_Lock.jpg)
 
 * 退出提示 <br/>
-![picture not found!](/ScreenShots/Scr_Lock.jpg)
+![picture not found!](/ScreenShots/quit.jpg)
 
 <4>. How to use?
 ----------------
