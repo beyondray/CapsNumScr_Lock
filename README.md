@@ -1,7 +1,6 @@
 What problem did I solve?
 ==========================
 * 解决windows上 “大小写”，“数字键”，“滚动锁屏”的状态标识问题。
-<br/>
 
 Why do I need this?
 =====================
@@ -9,7 +8,6 @@ Why do I need this?
 * 某些键盘虽然有切换提示灯，但低头查看会使目光离开屏幕，这不是全键盘geek所希望的。
 * win10虽然有切换键声音提示，但需要按下一次切换键来预判，并不能得知当下的状态。
 * 综上所述，诞生了这款小软件。
-<br/>
 
 What the effect like?
 =====================
@@ -27,7 +25,6 @@ What the effect like?
 
 * 退出提示 <br/>
 ![picture not found!](/ScreenShots/Scr_Lock.jpg)
-<br/>
 
 How to use?
 ===========
